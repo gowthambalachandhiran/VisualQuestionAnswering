@@ -1,0 +1,66 @@
+Imageid,Question,Answer
+1,is this xray,yes
+1,what is the body part in xray,hand
+2,what is the body part in xray,hand
+2,Does this image has single or multiple fracture,single
+3,Does this image have single or multiple fracture,multiple
+3,what is the body part in xray,hand
+4,is this xray,yes
+4,is this xray showing foreign body,foreign
+5,is this xray,yes
+6,is this xray,yes
+6,foreign body present,foreign
+7,what is the body part in xray,hand
+7,is this xray,yes
+8,what is the body part in xray,skull
+9,what is the body part in xray,skull
+10,what is the body part in xray,skull
+11,what is the body part in xray,skull
+12,what is the body part in xray,hand
+13,is this left or righ hand,left
+14,is this left or righ hand,left
+15,is this left or righ hand,right
+16,is this left or righ hand,left
+17,is this left or righ hand,right
+18,is this left or righ hand,right
+19,is this left or righ hand,right
+20,is this left or righ hand,right
+21,is this left or righ hand,left
+22,is this left or righ hand,left
+23,is this left or righ hand,left
+24,is this left or righ hand,left
+25,is this left or righ hand,left
+26,is this left or righ hand,left
+27,is this left or righ hand,left
+28,is this left or righ hand,left
+29,is this xray,yes
+30,is this xray,yes
+31,foreign body present,foreign
+32,foreign body present,foreign
+33,foreign body present,foreign
+34,foreign body present,foreign
+35,foreign body present,foreign
+36,what is the body part in xray,leg
+37,what is the body part in xray,leg
+38,what is the body part in xray,leg
+39,what is the body part in xray,leg
+40,what is the body part in xray,leg
+41,what is the body part in xray,leg
+42,what is the body part in xray,leg
+42,Does this image has single or multiple fracture,single
+42,is this xray,yes
+43,is this xray,yes
+43,Does this image have single or multiple fracture,multiple
+45,Does this image have single or multiple fracture,multiple
+46,Does this image have single or multiple fracture,multiple
+47,is this xray,no
+48,is this xray,no
+49,is this xray,no
+50,is this xray,no
+53,is this xray,no
+54,is this xray,no
+55,is this xray,yes
+56,is this xray,yes
+57,is this xray,yes
+58,is this xray,yes
+59,is this xray,yes
